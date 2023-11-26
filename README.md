@@ -4,7 +4,7 @@
 This Python code demonstrates the analysis of time series data using various methods from the statsmodels library.
  Libraries Used
 
-```python
+python
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
