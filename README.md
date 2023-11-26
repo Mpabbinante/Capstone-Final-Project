@@ -2,7 +2,7 @@
 
 ## Analyzing Time Series Data with Python
 
-### Libraries Used
+## Libraries Used
 
 ```python
 import os
