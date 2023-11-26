@@ -1,5 +1,5 @@
 # Capstone-Final-Project
-## Analyzing Time Series Data with Python
+# Analyzing Time Series Data with Python
 
 This Python code demonstrates the analysis of time series data using various methods from the statsmodels library.
 
