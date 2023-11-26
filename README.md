@@ -26,22 +26,24 @@ Set the appropriate datetime index for time series analysis.
 Prepared the data for visualization and modeling.
 # 2. Exploratory Data Analysis (EDA) and Visualization
 Conducted exploratory analysis:
-Displayed initial insights into the trends of average sale prices and yearly changes in housing prices over time.
+Displayed initial insights into the trends of average sale prices and yearly changes in housing prices over time as well as incomes.
 Utilized matplotlib to create time series plots showcasing the trends.
 # 3. Moving Average Analysis
 Calculated and visualized 5-year moving averages to identify long-term trends in the data.
-Analyzed how the moving averages compared to actual trends in average sale prices and yearly changes.
+Analyzed how the moving averages compared to actual trends in average sale prices and yearly changes as well as incomes.
 # 4. ARIMA Model for Forecasting
 Utilized the ARIMA (AutoRegressive Integrated Moving Average) model for forecasting future trends in:
 Average Sale Price(year)
-Yearly Change in Average Sale Price
+Yearly Incomes
+Yearly percent change for Average house prices and incomes
 Fitted the ARIMA models and generated forecasts for the next 10 years based on historical data.
 # 5. Holt-Winters Exponential Smoothing
 Applied Holt-Winters Exponential Smoothing to predict future trends in:
 Average Sale Price(year)
-Yearly Change
+Yearly Incomes
+Yearly percent change for Average house prices and incomes
 Utilized the technique to generate forecasts for the upcoming 10 years.
 # 6. Forecasted Values and Statistics
 Presented the forecasted values and basic statistics derived from the ARIMA and Holt-Winters models:
-Displayed the forecasted trends for average sale prices and yearly changes in housing prices.
+Displayed the forecasted trends for average sale prices and yearly changes in housing prices and incomes.
 Calculated statistical measures (mean, standard deviation, minimum, maximum, percentiles) for the forecasted data.
