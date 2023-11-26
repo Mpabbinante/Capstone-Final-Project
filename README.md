@@ -6,17 +6,17 @@ This Python code demonstrates the analysis of time series data using various met
 ## Libraries Used
 
 python
-import os
-import pandas as pd
-import matplotlib.pyplot as plt
-from statsmodels.tsa.arima.model import ARIMA
-from datetime import datetime, timedelta
-import numpy as np
-from statsmodels.tsa.holtwinters import ExponentialSmoothing
-from statsmodels.tsa.api import VAR
-from statsmodels.tsa.statespace.varmax import VARMAX
-from statsmodels.tools.eval_measures import rmse
-from statsmodels.tsa.vector_ar.vecm import coint_johansen
+-import os
+-import pandas as pd
+-import matplotlib.pyplot as plt
+-from statsmodels.tsa.arima.model import ARIMA
+-from datetime import datetime, timedelta
+-import numpy as np
+-from statsmodels.tsa.holtwinters import ExponentialSmoothing
+-from statsmodels.tsa.api import VAR
+-from statsmodels.tsa.statespace.varmax import VARMAX
+-from statsmodels.tools.eval_measures import rmse
+-from statsmodels.tsa.vector_ar.vecm import coint_johansen
 # 1. Data Loading and Preprocessing
 Data Source: Average_sale_price_us_houses.csv
 Steps:
