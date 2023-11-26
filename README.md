@@ -2,8 +2,7 @@
 # Analyzing Time Series Data with Python
 
 This Python code demonstrates the analysis of time series data using various methods from the statsmodels library.
-
-# Libraries Used
+ Libraries Used
 
 ```python
 import os
